@@ -1,0 +1,4 @@
+pycaw
+psutil
+comtypes
+pyinstaller
